@@ -1,0 +1,7 @@
+;S
+0 0 0 r 0
+0 1 1 r 0
+0 _ _ l 1
+1 1 _ r halt-reject
+1 0 _ r halt-accept
+;Máquina que verifica se o numero é par
