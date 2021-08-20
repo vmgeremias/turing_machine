@@ -1,5 +1,7 @@
 # Teoria da Computação
 ## Execução
-1. execute o programa turing_machine.py
-2. digite o nome do arquivo de entrada (existe um arquivo de exemplo chamado in.txt)
-3. o programa irá gerar a nova linguagem para a outra máquina no arquivo out.txt
+1. Execute o programa turing_machine.py
+2. Irá ser necessário o arquivo de entrada: entrada.in
+3. O programa irá gerar a nova linguagem para a outra máquina no arquivo saida.out
+
+Foi utilizado  "¢" e "£" como simbolos auxiliares.
