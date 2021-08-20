@@ -1,0 +1,17 @@
+0 1 U r 1
+0 0 Z r 1
+0 _ _ r halt-reject
+1 * * r 1
+1 _ _ l 2
+2 * * l 3
+2 U U l halt-reject
+2 Z Z l halt-reject
+3 * * l 4
+3 Z Z l halt-reject
+3 U U l halt-reject
+4 * * l 5
+4 U U l halt-reject
+4 Z Z l halt-reject
+5 1 1 r halt-accept
+5 U U r halt-accept
+5 * * r halt-reject
